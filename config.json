@@ -1,0 +1,17 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Bermondsey_and_Old_Southwark_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q3133970",
+    "start": "2010",
+    "end": "9999"
+  }, {
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate",
+  "mapping": {
+    "election": {
+    },
+    "party" : {
+    }
+  }
+}
