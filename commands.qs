@@ -1,16 +1,6 @@
 Q63852464	P3602	Q215622	P768	Q3133970	P102	Q10647	P1111	155	P1352	6	S4656	"https://en.wikipedia.org/wiki/Bermondsey_and_Old_Southwark_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Alex Matthews"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q3133970	P102	Q61651140	P1111	1617	P1352	4	S4656	"https://en.wikipedia.org/wiki/Bermondsey_and_Old_Southwark_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Andrew Baker"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q3133970	P102	Q9626	P1111	9678	P1352	3	S4656	"https://en.wikipedia.org/wiki/Bermondsey_and_Old_Southwark_(UK_Parliament_constituency)"
+Q76509821	P3602	Q30173038	P768	Q3133970	P102	Q61651140	P1111	1617	P1352	4	S4656	"https://en.wikipedia.org/wiki/Bermondsey_and_Old_Southwark_(UK_Parliament_constituency)"
+Q76363638	P3602	Q30173038	P768	Q3133970	P102	Q9626	P1111	9678	P1352	3	S4656	"https://en.wikipedia.org/wiki/Bermondsey_and_Old_Southwark_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"Andy Beadle"
